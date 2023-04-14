@@ -1,0 +1,17 @@
+nombre,apellido,edad
+Paco,Martinez,56
+Juan,Garcia,82
+Pepe,Alonso,23
+Luis,Aparicio,46
+Francisco,Morales,76
+Enrique,Antolinez,55
+Antonio,Carrasco,73
+Carlos,Escoriza,27
+Javier,Heredia,41
+Mauricio,Fernandez,90
+Angel,Hernandez,19
+Pablo,Segura,20
+Raul,Sola,38
+Emilio,Soriano,32
+Felix,Osorio,67
+Escamilla,Almansa,21
